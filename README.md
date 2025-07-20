@@ -6,7 +6,8 @@
 ---
 
 ## 🚀 About Me
-- 👨‍💻 Currently diving into **Data Structures and Algorithms** using C  
+- 👨‍💻 Currently diving into **Data Structures and Algorithms** using C  ,python 
+*looking forward to do dsa in python *
 - 🌱 Learning Computer Science fundamentals and exploring open source  
 - 📚 Always curious about how things work under the hood  
 - ⚽ Big fan of **FC Barcelona** and **Lionel Messi**
@@ -14,7 +15,9 @@
 ---
 
 ## 💡 Goals
-- Master core concepts in **C programming**, **DSA**, and **Computer Organization**  
+- Master core concepts in **C programming**, **DSA**, and **Computer Organization** 
+**python programming **
+**DSA in python **
 - Start contributing to **open source projects**  
 - Build cool stuff and become a solid developer
 
